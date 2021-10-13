@@ -1,4 +1,4 @@
-fil report.pdf - the final report from this work;
+file report.pdf - the final report from this work;
 file data2.csv - readings from two orbits;
 file data10.csv - readings from ten orbits;
 file mapa.jpeg - earth planisphere;
